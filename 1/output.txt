@@ -1,0 +1,113 @@
+There are no questions provided in Document2 to answer.
+
+I'm sorry, but it seems there was a misunderstanding in the instructions provided. You've asked for answers to questions in Document2, but no specific questions from Document2 were provided in your request. Please provide the specific questions from Document2 that you need answers to, based on the information extracted from Document1.
+
+(Name of Applicant) LUMBER CO LTD
+
+(Applicant's DBA) 
+
+(Applicant's address) 123 Main St
+
+(Optional) Suite, Floor, Unit, etc... 
+
+(Applicant's previous ﬁscal year-end revenue) $80,000,000
+
+(Applicant's primary website) https://www.lumberco.com
+
+(Applicant's industry) None of the above
+
+(None of the above) 
+Yes
+
+(Does the Applicant store or process personal, health, or credit card information of more than 500,000 individuals?) 
+ No
+
+(Does the Applicant keep ofﬂine backups that are disconnected from its network or store backups with a cloud service provider?) 
+ Yes
+
+(Does the Applicant have multi-factor authentication enforced on all email access?) 
+ Yes
+
+(Does the Applicant have multi-factor authentication enforced on all remote access including VPN or other remote network access?) 
+ No
+
+(Appriver: Off)
+
+(Avanan: Off)
+
+(Barracuda: Off)
+
+(Darktrace: Off)
+
+(Datto: Off)
+
+(Google: Off)
+
+(Inky: Off)
+
+(Intermedia: Off)
+
+(Ironscales: Off)
+
+(Microsoft Defender for O365: Off)
+
+(Mimecast: Off)
+
+(Perception Point: Off)
+
+(Proofpoint: Off)
+
+(Vade: Off)
+
+(No SEG in Place: Off)
+
+(Other/Unknown: Off)
+
+(Which of the following Endpoint Detection & Response (EDR) products does the Applicant use, if any?) Other/Unknown
+
+(In the last three (3) years, has the Applicant experienced in excess of $10,000 any Cyber Event, Loss, or been the subject of any Claim made for a Wrongful Act that would fall within the scope of the Policy for which the Applicant is applying?) 
+ No 
+
+(Is the Applicant aware of any fact, circumstance, situation, event, or Wrongful Act which reasonably could give rise to a Cyber Event, Loss, or a Claim being made against them that would fall within the scope of the Policy for which the Applicant is applying?) 
+ No 
+
+
+
+(Authorized Representative Title*) 
+
+(Authorized Representative Name*) 
+
+(Authorized Representative Signature*) 
+
+(Today’s Date (MM/DD/YY)*) 
+
+(Security Contact Information Required Security Contact Name) Bob Saget
+
+(Security Contact Information Required Email) bob.saget@lumberco.com
+
+(Security Contact Information Required Phone) +1 123 456 7899
+
+(Security Contact Information Optional Security Contact Name) 
+
+(Security Contact Information Email) 
+
+(Security Contact Information Phone) 
+
+
+
+(Fraud notice to all applicants) Any person who knowingly and with intent to defraud any insurance company or other person ﬁles an Application for insurance or statement of Claim containing any materially false information or, conceals, for the purpose of misleading, information concerning any fact material thereto, commits a fraudulent act, which is a crime and may subject such person to criminal and civil penalties.
+
+(Fraud notice to Colorado applicants) It is unlawful to knowingly provide false, incomplete, or misleading facts or information to an insurance company for the purpose of defrauding or attempting to defraud the company. Penalties may include imprisonment, ﬁnes, denial of insurance, and civil Damages. Any insurance company or agent of an insurance company who knowingly provides false, incomplete, or misleading facts or information to a Policyholder or claimant for the purpose of defrauding or attempting to defraud the Policyholder or claimant with regard to a settlement or award payable from insurance proceeds shall be reported to the Colorado Division of Insurance within the Department of Regulatory Agencies.
+
+(Fraud notice to Florida applicants) Any person who knowingly and with intent to injure, defraud, or deceive any insurer ﬁles a statement of Claim or an Application containing any false, incomplete or misleading information is guilty of a felony of the third degree.
+
+(Fraud notice to Alabama, Arkansas, District of Columbia, Maryland, New Mexico, Rhode Island, and West Virginia applicants) Any person who knowingly presents a false or fraudulent Claim for payment of a Loss or beneﬁt, or presents false information in an Application for insurance, is guilty of a crime and may be subject to ﬁnes and conﬁnement in prison.
+
+(Fraud notice to Louisiana, Maine, Tennessee, Virginia, and Washington applicants) It is a crime to knowingly provide false, incomplete, or misleading information to an insurance company for the purpose of defrauding the company. Penalties include imprisonment, ﬁnes, and denial of insurance beneﬁts.
+
+(Fraud notice to Kentucky, New Jersey, New York, Ohio, and Pennsylvania applicants) Any person who knowingly and with intent to defraud any insurance company or other person ﬁles an Application for insurance or statement of Claim containing any materially false information or conceals for the purpose of misleading, information concerning any fact material thereto commits a fraudulent insurance act, which is a crime and subjects such person to criminal and civil penalties. (In New York, the civil penalty is not to exceed ﬁve thousand dollars ($5,000) and the stated value of the Claim for each such violation.)
+
+(Fraud notice to Oregon applicants) Any person who knowingly presents a false or fraudulent Claim for payment of a Loss or beneﬁt or who knowingly presents false information in an Application for insurance may be guilty of a crime and may be subject to ﬁnes and conﬁnement in prison.
+
+Any person who knowingly and with the intention of defrauding presents false information in an insurance application, or presents, helps, or causes the presentation of fraudulent claim for the payment of a loss or any other benefit, or presents more than one claim for the same damage or loss, shall incur a felony and, upon conviction, shall be sanctioned for each violation with the penalty of a fine not less than five thousand dollars ($5,000) and not more than ten thousand dollars ($10,000), or a fixed term of imprisonment for three (3) years, or both penalties. Should aggravating circumstances be present, the penalty thus established may be increased to a maximum of five (5) years; if extenuating circumstances are present, it may be reduced to a minimum of two (2) years.
+

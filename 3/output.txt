@@ -1,0 +1,245 @@
+(Name of Organization (Applicant):) Good Builders
+
+(Mailing Address:) 999 South Platte St
+
+(Description Of Business:) Structural Steel and Precast Concrete Contractors
+
+(Number Of Employees:) 50
+
+7. Annual Revenue ($): 
+(10000000) 
+
+8. Website Address(es): 
+(http://goodbuilders.com) 
+
+9. Policy Period Requested: 
+(From: Feb 15, 2024 12:01 AM local time To: Feb 15, 2025 12:01 AM local time) 
+
+1. Policy Aggregate Limit Of Insurance: 
+($1,000,000) 
+
+2. Policy Deductible: 
+($5,000) 
+
+3. Time Deductible: 
+(6 Hours) 
+
+4. Aggregate Sublimit(s) Of Insurance: 
+(Insuring Agreement Percentage % (2) Extortion Threat ‐ Ransom Payments 5% (4) Business Income and Extra Expense 100% (5) Public Relations Expense 5%) 
+
+5. Social Engineering Coverage Limit (if applicable): 
+($250,000) 
+
+6. Social Engineering Deductible (if applicable): 
+($10,000) 
+
+7. Reverse Social Engineering Coverage Limit (if applicable): 
+(N/A) 
+
+8. Reverse Social Engineering Deductible (if applicable): 
+(N/A) 
+
+9. Dedicated Breach Costs Limit (if applicable): 
+(N/A) 
+
+10. Service Fraud including Cryptojacking Limit (if applicable): 
+(N/A)
+
+(Document2 question 1. Encryption: Does Your organization encrypt all emails containing sensitive information (including, but not limited to, Personally Identifiable Information (PII), Personal Health Information (PHI), Payment Card Information (PCI)) sent to external parties?) 
+ (No information provided) 
+
+(Document2 question 1. Encryption: Does Your organization encrypt all sensitive information (including, but not limited to, PII, PHI, PCI) stored on computing and/or mobile devices (including, but not limited to, phones, tablets, laptops, wearable computers, flash drives)?) 
+ (No information provided) 
+
+(Document2 question 2. Information Security Leadership: Does Your organization have an individual officially designated for overseeing information security?) 
+ (No information provided) 
+
+(Document2 question 3. Cloud: Does Your organization have sensitive information (e.g., PII, PHI, PCI) stored on the cloud (including, but not limited to, Carbonite, Google Drive, Dropbox)?) 
+ (No information provided) 
+
+
+
+(Employee Management: Does Your organization provide mandatory information security training to all employees at least annually? 
+ Yes)
+
+(If yes, are Your information security personnel provided with additional training to help them understand current security threats? 
+ Yes)
+
+(Please attach your organization's Loss History for the past three (3) years, if applicable. 
+ No)
+
+(Has your organization ever been a party to any of the following: Civil or criminal action or administrative proceeding alleging violation of any federal, state, local or common law? 
+ No)
+
+(Is there currently any pending litigation, administrative proceeding or claim against the named applicant, organization and/or any of the prospective insured? 
+ No)
+
+(During the last three (3) years, has Your organization suffered a security breach requiring customer or third-party notification according to state or federal regulations, cyber extortion or business interruption arising from a cyber event? 
+ No)
+
+(Do You want to purchase Computer and Funds Transfer Fraud coverage? 
+ Yes)
+
+(Requested sublimit for Business and Contingent Business Income and Extra Expense*: 
+ 100%)
+
+(Would You like to cap Your retroactive coverage? 
+ Full Prior Acts)
+
+(Do You want to add an Additional Insured? 
+ Yes)
+
+(Do you want to purchase coverage for Social Engineering Incidents?) Yes
+
+(Do You or Your employees verify third-party bank accounts before adding to your accounts payable systems?) Yes
+
+(Do You have an established and documented verification procedure requiring that You or Your employees authenticate all funds transfer requests, whether made to a third-party or otherwise by way of a secondary method of communication from the initial request for funds transfer?) Yes
+
+(Do You or Your employees prevent unauthorized employees from initiating wire transfers?) Yes
+
+(Do you want to purchase Reverse Social Engineering coverage?) Yes
+
+(Do You want to purchase Hardware Replacement coverage?) Yes
+
+(Do You want to purchase Telecommunications Fraud coverage?) Yes
+
+(Do You want to purchase Post Breach Remediation coverage?) Yes
+
+(Do you want to purchase Website Media Content Liability coverage?) Yes
+
+(Do you want to purchase coverage for Enhanced Business and Contingent Business Income?) Yes
+
+(Please indicate how frequently You, or Your outsourced service, backup sensitive/critical data and critical systems:) 
+
+(Please identify which of the following business continuity measures Your organization has in place:) 
+
+(Do you want to purchase coverage for Enhanced Business and Contingent Business Income inclusive of System Failure?) Yes
+
+(Please indicate how frequently You, or Your outsourced service, backup sensitive/critical data and critical systems:) 
+
+(Please identify which of the following business continuity measures Your organization has in place:) 
+
+(Do you want to purchase coverage for Dedicated Breach Costs?) Yes
+
+(Do you want to purchase Service Fraud and Cryptojacking coverage?) Yes
+
+(General Fraud Warning) Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison. (Not applicable in AL, AK, AZ, AR, CA, CO, DE, DC, FL, ID, IN, HI, KS, KY, LA, ME, MD, MN, NH, NJ, NM, NY, OH, OK, OR, PA, PR, TN, VA, WA) 
+
+(Alabama Fraud Warning) Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or who knowingly presents false information in an application for insurance is guilty of a crime and may be subject to restitution, fines, or confinement in prison, or any combination thereof. 
+
+(Alaska Fraud Warning) A person who knowingly and with intent to injure, defraud, or deceive an insurance company files a claim containing false, incomplete, or misleading information may be prosecuted under state law. 
+
+(Arizona Fraud Warning) For your protection Arizona law requires the following statement to appear on this form: Any person who knowingly presents a false or fraudulent claim for payment of a loss is subject to criminal and civil penalties. 
+
+(Arkansas Fraud Warning) Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+
+(California Fraud Warning) Any person who knowingly presents a false or fraudulent claim for the payment of a loss is guilty of a crime and may be subject to fines and confinement in state prison. 
+
+(Colorado Fraud Warning) It is unlawful to knowingly provide false, incomplete, or misleading facts or information to an insurance company for the purpose of defrauding or attempting to defraud the company. Penalties may include imprisonment, fines, denial of insurance, and civil damages. Any insurance company or agent of an insurance company who knowingly provides false, incomplete, or misleading facts or information to a policyholder or claimant for the purpose of defrauding or attempting to defraud the policyholder or claimant with regard to a settlement or award payable from insurance proceeds shall be reported to the Colorado Division of Insurance within the Department of Regulatory Agencies. 
+
+(Delaware Fraud Warning) Any person who knowingly, and with intent to injure, defraud or deceive any insurer, files a statement of claim containing any false, incomplete or misleading information is guilty of a felony. 
+
+(District Of Columbia Fraud Warning) It is a crime to provide false, or misleading information to an insurer for the purpose of defrauding the insurer or any other person. Penalties include imprisonment and/or fines. In addition, an insurer may deny insurance benefits if false information materially related to a claim was provided by the applicant. 
+
+(Florida Fraud Warning) Any person who knowingly and with intent to injure, defraud, or deceive any insurer files a statement of claim or an application containing any false, incomplete, or misleading information is guilty of a felony of the third degree. 
+
+(Idaho Fraud Warning) Any person who knowingly, and with intent to defraud or deceive any insurance company, files a statement containing any false, incomplete, or misleading information is guilty of a felony. 
+
+(Indiana Fraud Warning) A person who knowingly and with intent to defraud an insurer files a statement of claim containing any false, incomplete, or misleading information commits a felony. 
+
+(Hawaii Fraud Warning) Intentionally or knowingly misrepresenting or concealing a material fact, opinion or intention to obtain coverage, benefits, recovery or compensation when presenting an application for the issuance or renewal of an insurance policy or when presenting a claim for the payment of a loss is a criminal offense punishable by fines or imprisonment, or both. 
+
+(Kansas Fraud Warning) Any person who commits a fraudulent insurance act is guilty of a crime and may be subject to restitution, fines and confinement in prison. A fraudulent insurance act means an act committed by any person who, knowingly and with intent to defraud, presents, causes to be presented or prepares with knowledge or belief that it will be presented to or by an insurer, purported insurer or insurance agent or broker, any written, electronic, electronic impulse, facsimile, magnetic, oral, or telephonic communication or statement as part of, or in support of, an application for insurance, or the rating of an insurance policy, or a claim for payment or other benefit under an insurance policy, which such person knows to contain materially false information concerning any material fact thereto; or conceals, for the purpose of misleading, information concerning any fact material thereto. 
+
+(Kentucky Fraud Warning) Any person who knowingly and with intent to defraud any insurance company or other person files a statement of claim containing materially false information or conceals, for the purpose of misleading, information concerning any fact material thereto, commits a fraudulent insurance act, which is a crime.
+
+(Louisiana Fraud Warning) Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+
+(Maine Fraud Warning) It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the purpose of defrauding the company. Penalties may include imprisonment, fines, or a denial of insurance benefits.
+
+(Maryland Fraud Warning) Any person who knowingly and willfully presents a false or fraudulent claim for payment of a loss or benefit or who knowingly and willfully presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+
+(Minnesota Fraud Warning) A person who files a claim with intent to defraud, or helps commit a fraud against an insurer, is guilty of a crime.
+
+(New Hampshire Fraud Warning) Any person who, with a purpose to injure, defraud or deceive any insurance company, files a statement of claim containing any false, incomplete or misleading information is subject to prosecution and punishment for insurance fraud, as provided in RSA 638:20.
+
+(New Jersey Fraud Warning) Any person who includes false or misleading information on an application for an insurance policy is subject to criminal and civil penalties.
+
+(New Mexico Fraud Warning) Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to civil fines and criminal penalties.
+
+(New York Fraud Warning) Any person who knowingly and with intent to defraud any insurance company or other person files an application for insurance or statement of claim containing any materially false information, or conceals for the purpose of misleading, information concerning any fact material thereto, commits a fraudulent insurance act, which is a crime, and shall also be subject to a civil penalty not to exceed five thousand dollars and the stated value of the claim for each such violation.
+
+(Ohio Fraud Warning) Any person who, with intent to defraud or knowing that he is facilitating a fraud against an insurer, submits an application or files a claim containing a false or deceptive statement is guilty of insurance fraud.
+
+(Oklahoma Fraud Warning) WARNING: Any person who knowingly, and with intent to injure, defraud or deceive any insurer, makes any claim for the proceeds of an insurance policy containing any false, incomplete or misleading information is guilty of a felony.
+
+(Oregon Fraud Warning) The misinformation is material to the content of the policy; We relied upon the misinformation; and The information was either: Material to the risk assumed by us; or Provided fraudulently. For remedies other than the denial of a claim, misstatements, misrepresentations, omissions or concealments on your part must either be fraudulent or material to our interests. Misstatements, misrepresentations, omissions or concealments on your part are not fraudulent unless they are made with the intent to knowingly defraud.
+
+(Pennsylvania Fraud Warning) Any person who knowingly and with intent to defraud any insurance company or other person files an application for insurance or statement of claim containing any materially false information, or conceals for the purpose of misleading, information concerning any fact material thereto commits a fraudulent insurance act, which is a crime and subjects such person to criminal and civil penalties.
+
+(Puerto Rico Fraud Warning) 
+
+(Tennessee Fraud Warning) It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the purpose of defrauding the company. Penalties include imprisonment, fines and denial of insurance benefits.
+
+(Virginia Fraud Warning) It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the purpose of defrauding the company. Penalties include imprisonment, fines and denial of insurance benefits.
+
+(Washington Fraud Warning) It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the purpose of defrauding the company. Penalties include imprisonment, fines and denial of insurance benefits.
+
+(Document2 question) Your premium for terrorism coverage is: $ (This charge/amount is applied to obtain the final premium). 
+ (answer from Document1 information) 
+
+(Document2 question) Named Insured 
+ (answer from Document1 information) Jack Falcone
+
+(Document2 question) Insurance Company 
+ (answer from Document1 information) Spinnaker Insurance Company
+
+(Document2 question) Print Name of Policyholder/Applicant 
+ (answer from Document1 information) Jack Falcone
+
+(Document2 question) Policy Number: 
+ (answer from Document1 information) 
+
+(Document2 question) Date: 
+ (answer from Document1 information) 
+
+
+
+I'm sorry, but it seems there was a misunderstanding in the instructions provided. The information from Document1 does not contain any direct answers to the specific questions or statements found in Document2. Document1 provides details about an insurance application, including the entity name, mailing address, and prior coverage details, but does not directly address policy documentation delivery method preferences or procedures related to electronic or paper delivery options as outlined in Document2. Therefore, based on the information provided from Document1, I cannot supply answers to the questions or statements in Document2.
+
+(Name of Individual to Receive Documents by Electronic Delivery) 
+ (Good Builders) 
+
+(E-mail Address of Individual to Receive Documents by Electronic Delivery) 
+ () 
+
+(First Named Insured) 
+ (Good Builders) 
+
+(Print Name of First Named Insured’s Authorized Representative) 
+ () 
+
+(Signature of First Named Insured’s Authorized Representative) 
+ () 
+
+(Date) 
+ () 
+
+
+
+(Does the Applicant prevent unauthorized employees from initiating wire transfers?) Yes
+
+(Does the Applicant require out-of-band authentication prior to executing an electronic payment?) Yes
+
+(Does the Applicant protect all of their devices with anti-virus, anti-malware, and endpoint protection software?) Yes
+
+(What Endpoint Detection and Response (EDR) provider does the applicant use?) Other
+
+(Does the Applicant verify vendor/supplier bank accounts before adding to accounts payable systems?) Yes
+
+(Does the Applicant store, transmit, collect, or process customer or client biometric data?) No
+
+(What kind of entity is the Applicant?) Private
+
+(Is the Applicant providing any of the following products or services to customers?) None of the above
+
